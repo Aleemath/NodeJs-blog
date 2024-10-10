@@ -21,4 +21,4 @@ Blog Project is a full-featured blogging platform built with Node.js and Express
 - **Mongoose**: ODM (Object Data Modeling) library for MongoDB and Node.js.
 - **Cookie Parser**: Middleware to parse cookies attached to the client request object.
 - **Express-session**: Middleware for managing sessions in Express applications.
-- 
+  
