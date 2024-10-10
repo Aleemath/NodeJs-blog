@@ -2,6 +2,10 @@
 Building a blog
 
 
+## Overview
+Blog Project is a full-featured blogging platform built with Node.js and Express, utilizing MongoDB for data storage. It provides a robust environment for users to create, manage, and interact with blog posts.
+
+![Blog Page](public/img/Screenshot%202024-10-10%20at%203.16.00%20PM.png)
 
 ## Features
 
@@ -17,8 +21,4 @@ Building a blog
 - **Mongoose**: ODM (Object Data Modeling) library for MongoDB and Node.js.
 - **Cookie Parser**: Middleware to parse cookies attached to the client request object.
 - **Express-session**: Middleware for managing sessions in Express applications.
-
-## Demo
-- [live](http://localhost:5000/)
-- [Stack-overflow](https://stackoverflow.com/users/21197797/aleemath-ranseena-k-k)
-- [linkedin](https://www.linkedin.com/in/aleemath-ranseena-3b6154266/)
+- 
